@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.titulo{
+	color: red;
+}
+
+.pie2
+{
+    margin-top:529px;
+
+}
+
+.pie3{
+	margin-top: 76px;
+}
+
+.pie4{
+	margin-top: 10px;
+}
+
+.pie{
+	margin-left: 43%;
+
+}
+
+.fondo{
+	background-image: url(img/legologo.jpg);
+}
+
+.logo{
+height: 50px;
+}
+
+.texto1{
+	background-color: white;
+}
+
+.fotitos{
+	color:;
+}
+
+.cuadrito{
+	margin-left: 30%;
+}
+
